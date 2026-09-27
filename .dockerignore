@@ -1,0 +1,3 @@
+# Only gemini_rpd.py is copied into the image; exclude everything else
+*
+!gemini_rpd.py
